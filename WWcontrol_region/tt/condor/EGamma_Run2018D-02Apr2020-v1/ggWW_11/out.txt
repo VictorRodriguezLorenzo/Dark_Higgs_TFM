@@ -1,0 +1,30 @@
+
+
+Loaded dataframes
+
+
+
+
+Loaded all aliases before nuisances for ggWW index 11
+
+
+
+
+ ggWW 
+
+ {'expr': '59.8 * ( XSWeight*SFweight*PromptGenLepMatch2l*METFilter_MC*1.53/1.4 ) * ( 1.0 )'}
+
+
+Loaded alias weight for ggWW index 11
+
+
+
+
+Loaded all aliases after nuisances for ggWW index 11
+
+
+loaded all variables
+created empty results dict
+splitted samples
+created cuts
+Number of events passing preselections: 4849

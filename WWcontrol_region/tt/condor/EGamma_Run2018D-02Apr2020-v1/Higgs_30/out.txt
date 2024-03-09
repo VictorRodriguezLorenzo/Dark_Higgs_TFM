@@ -1,0 +1,30 @@
+
+
+Loaded dataframes
+
+
+
+
+Loaded all aliases before nuisances for Higgs index 30
+
+
+
+
+ Higgs 
+
+ {'expr': '59.8 * ( XSWeight*SFweight*PromptGenLepMatch2l*METFilter_MC ) * ( 1.0 )'}
+
+
+Loaded alias weight for Higgs index 30
+
+
+
+
+Loaded all aliases after nuisances for Higgs index 30
+
+
+loaded all variables
+created empty results dict
+splitted samples
+created cuts
+Number of events passing preselections: 7116

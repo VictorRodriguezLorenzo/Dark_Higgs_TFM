@@ -1,0 +1,30 @@
+
+
+Loaded dataframes
+
+
+
+
+Loaded all aliases before nuisances for Fake index 12
+
+
+
+
+ Fake 
+
+ {'expr': '( METFilter_DATA*fakeW ) * ( (!Trigger_ElMu && !Trigger_dblMu && Trigger_sngMu) )'}
+
+
+Loaded alias weight for Fake index 12
+
+
+
+
+Loaded all aliases after nuisances for Fake index 12
+
+
+loaded all variables
+created empty results dict
+splitted samples
+created cuts
+Number of events passing preselections: 5968

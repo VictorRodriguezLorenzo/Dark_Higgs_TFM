@@ -1,0 +1,30 @@
+
+
+Loaded dataframes
+
+
+
+
+Loaded all aliases before nuisances for DATA index 1
+
+
+
+
+ DATA 
+
+ {'expr': '( METFilter_DATA*LepWPCut ) * ( (Trigger_ElMu) )'}
+
+
+Loaded alias weight for DATA index 1
+
+
+
+
+Loaded all aliases after nuisances for DATA index 1
+
+
+loaded all variables
+created empty results dict
+splitted samples
+created cuts
+Number of events passing preselections: 286027
