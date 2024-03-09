@@ -1,0 +1,63 @@
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part186.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part187.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part188.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part189.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part190.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part191.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part192.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part193.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part194.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part195.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part196.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part197.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part198.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part199.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part200.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part201.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part202.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part203.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part204.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part205.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part206.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part207.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part208.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part209.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part210.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part211.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part212.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part213.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part214.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part215.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part216.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part217.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part218.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part219.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part220.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part221.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part222.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part223.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part224.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part225.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part226.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part227.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part228.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part229.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part230.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part231.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part232.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part233.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part234.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__l2tightOR2018v7/nanoLatino_SingleMuon_Run2018D-02Apr2020-v1__part235.root does not exist
+Traceback (most recent call last):
+  File "/pool/condor/dir_4072823/runner.py", line 1169, in <module>
+    runner = RunAnalysis(samples, aliases, variables, cuts, nuisances, lumi)
+  File "/pool/condor/dir_4072823/runner.py", line 277, in __init__
+    map(lambda k: str(k), df.GetColumnNames())
+cppyy.gbl.std.runtime_error: vector<string> ROOT::RDF::RInterfaceBase::GetColumnNames() =>
+    runtime_error: GetBranchNames: error in opening the tree Events
+
+real	348m36.796s
+user	0m7.026s
+sys	0m4.064s
+cp: cannot stat 'output.root': No such file or directory
+rm: cannot remove 'output.root': No such file or directory

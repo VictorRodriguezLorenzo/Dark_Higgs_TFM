@@ -1,0 +1,63 @@
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part150.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part151.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part152.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part153.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part154.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part155.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part156.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part157.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part158.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part159.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part160.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part161.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part162.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part163.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part164.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part165.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part166.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part167.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part168.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part169.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part170.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part171.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part172.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part173.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part174.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part175.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part176.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part177.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part178.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part179.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part180.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part181.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part182.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part183.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part184.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part185.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part186.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part187.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part188.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part189.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part190.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part191.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part192.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part193.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part194.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part195.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part196.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part197.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part198.root does not exist
+Error in <TFile::TFile>: file /eos/cms/store/group/phys_higgs/cmshww/amassiro/HWWNano/Run2018_102X_nAODv7_Full2018v7/DATAl1loose2018v7__l2loose__fakeW/nanoLatino_EGamma_Run2018A-02Apr2020-v1__part199.root does not exist
+Traceback (most recent call last):
+  File "/pool/condor/dir_282607/runner.py", line 1169, in <module>
+    runner = RunAnalysis(samples, aliases, variables, cuts, nuisances, lumi)
+  File "/pool/condor/dir_282607/runner.py", line 277, in __init__
+    map(lambda k: str(k), df.GetColumnNames())
+cppyy.gbl.std.runtime_error: vector<string> ROOT::RDF::RInterfaceBase::GetColumnNames() =>
+    runtime_error: GetBranchNames: error in opening the tree Events
+
+real	344m1.351s
+user	0m4.262s
+sys	0m4.147s
+cp: cannot stat 'output.root': No such file or directory
+rm: cannot remove 'output.root': No such file or directory

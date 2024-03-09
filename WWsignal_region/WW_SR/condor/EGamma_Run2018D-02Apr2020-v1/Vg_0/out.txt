@@ -1,0 +1,30 @@
+
+
+Loaded dataframes
+
+
+
+
+Loaded all aliases before nuisances for Vg index 0
+
+
+
+
+ Vg 
+
+ {'expr': '59.8 * ( XSWeight*SFweight*METFilter_MC*(Gen_ZGstar_mass <= 0) ) * ( 1.0 )'}
+
+
+Loaded alias weight for Vg index 0
+
+
+
+
+Loaded all aliases after nuisances for Vg index 0
+
+
+loaded all variables
+created empty results dict
+splitted samples
+created cuts
+Number of events passing preselections: 404
