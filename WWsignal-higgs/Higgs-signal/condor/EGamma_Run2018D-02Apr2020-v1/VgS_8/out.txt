@@ -1,0 +1,30 @@
+
+
+Loaded dataframes
+
+
+
+
+Loaded all aliases before nuisances for VgS index 8
+
+
+
+
+ VgS 
+
+ {'expr': '59.8 * ( XSWeight*SFweight*PromptGenLepMatch2l*METFilter_MC * (gstarLow * 0.94 + gstarHigh * 1.14) ) * ( ((Gen_ZGstar_mass > 0.1)) )'}
+
+
+Loaded alias weight for VgS index 8
+
+
+
+
+Loaded all aliases after nuisances for VgS index 8
+
+
+loaded all variables
+created empty results dict
+splitted samples
+created cuts
+Number of events passing preselections: 16976

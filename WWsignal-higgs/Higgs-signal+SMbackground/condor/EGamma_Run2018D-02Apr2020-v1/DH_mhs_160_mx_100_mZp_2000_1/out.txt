@@ -1,0 +1,30 @@
+
+
+Loaded dataframes
+
+
+
+
+Loaded all aliases before nuisances for DH_mhs_160_mx_100_mZp_2000 index 1
+
+
+
+
+ DH_mhs_160_mx_100_mZp_2000 
+
+ {'expr': '59.8 * ( XSWeight*SFweight*PromptGenLepMatch2l*METFilter_MC ) * ( 1.0 )'}
+
+
+Loaded alias weight for DH_mhs_160_mx_100_mZp_2000 index 1
+
+
+
+
+Loaded all aliases after nuisances for DH_mhs_160_mx_100_mZp_2000 index 1
+
+
+loaded all variables
+created empty results dict
+splitted samples
+created cuts
+Number of events passing preselections: 572

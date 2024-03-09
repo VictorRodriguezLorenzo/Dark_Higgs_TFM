@@ -1,0 +1,12 @@
+universe = vanilla 
+executable = run.sh
+arguments = $(Folder)
+should_transfer_files = YES
+transfer_input_files = $(Folder)/script.py, /afs/cern.ch/user/v/victorr/private/mkShapesRDF/mkShapesRDF/include/headers.hh, /afs/cern.ch/user/v/victorr/private/mkShapesRDF/mkShapesRDF/shapeAnalysis/runner.py
+output = $(Folder)/out.txt
+error  = $(Folder)/err.txt
+log    = $(Folder)/log.txt
+request_cpus   = 1
++JobFlavour = "workday"
+queue 1 Folder in DY_48, top_34, DH_mhs_160_mx_200_mZp_1000_0, DH_mhs_200_mx_150_mZp_500_0, DH_mhs_200_mx_150_mZp_1500_0
+ 

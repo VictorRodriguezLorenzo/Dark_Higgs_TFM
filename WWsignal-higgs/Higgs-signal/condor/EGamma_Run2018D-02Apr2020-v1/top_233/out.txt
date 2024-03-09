@@ -1,0 +1,30 @@
+
+
+Loaded dataframes
+
+
+
+
+Loaded all aliases before nuisances for top index 233
+
+
+
+
+ top 
+
+ {'expr': '59.8 * ( XSWeight*SFweight*PromptGenLepMatch2l*METFilter_MC ) * ( (Top_pTrw) )'}
+
+
+Loaded alias weight for top index 233
+
+
+
+
+Loaded all aliases after nuisances for top index 233
+
+
+loaded all variables
+created empty results dict
+splitted samples
+created cuts
+Number of events passing preselections: 123614

@@ -1,0 +1,30 @@
+
+
+Loaded dataframes
+
+
+
+
+Loaded all aliases before nuisances for DY index 111
+
+
+
+
+ DY 
+
+ {'expr': '59.8 * ( XSWeight*SFweight*PromptGenLepMatch2l*METFilter_MC*( !(Sum(PhotonGen_isPrompt==1 && PhotonGen_pt>15 && abs(PhotonGen_eta)<2.6) > 0 && Sum(LeptonGen_isPrompt==1 && LeptonGen_pt>15)>=2) ) ) * ( (LHE_HT<70.0) )'}
+
+
+Loaded alias weight for DY index 111
+
+
+
+
+Loaded all aliases after nuisances for DY index 111
+
+
+loaded all variables
+created empty results dict
+splitted samples
+created cuts
+Number of events passing preselections: 8361

@@ -1,0 +1,30 @@
+
+
+Loaded dataframes
+
+
+
+
+Loaded all aliases before nuisances for WWewk index 5
+
+
+
+
+ WWewk 
+
+ {'expr': '59.8 * ( XSWeight*SFweight*PromptGenLepMatch2l*METFilter_MC*(Sum(abs(GenPart_pdgId)==6 || GenPart_pdgId==25)==0) ) * ( 1.0 )'}
+
+
+Loaded alias weight for WWewk index 5
+
+
+
+
+Loaded all aliases after nuisances for WWewk index 5
+
+
+loaded all variables
+created empty results dict
+splitted samples
+created cuts
+Number of events passing preselections: 1112

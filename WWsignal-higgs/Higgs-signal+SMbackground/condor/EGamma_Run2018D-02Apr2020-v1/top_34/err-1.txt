@@ -1,0 +1,12 @@
+Error in <TNetXNGFile::Open>: [ERROR] Server responded with an error: [3001] Required argument not present
+Warning in <TClass::Init>: no dictionary for class edm::Hash<1> is available
+Warning in <TClass::Init>: no dictionary for class edm::ProcessHistory is available
+Warning in <TClass::Init>: no dictionary for class edm::ProcessConfiguration is available
+Warning in <TClass::Init>: no dictionary for class edm::ParameterSetBlob is available
+Warning in <TClass::Init>: no dictionary for class pair<edm::Hash<1>,edm::ParameterSetBlob> is available
+Error in <TNetXNGFile::Open>: [ERROR] Server responded with an error: [3001] Required argument not present
+Error in <TNetXNGFile::Open>: [ERROR] Server responded with an error: [3001] Required argument not present
+
+real	0m27.058s
+user	0m16.691s
+sys	0m4.757s
