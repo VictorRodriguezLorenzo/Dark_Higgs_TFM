@@ -1,0 +1,25 @@
+To run mkShapesRDF, first use the source start.sh command to open the
+environment, and then:
+-----Compile
+ 
+mkShapesRDF -c 1
+
+-----Running on local:
+ 
+mkShapesRDF -o 0 -f . -b 0 -l 10
+
+-----Running on batch (CONDOR):
+ 
+mkShapesRDF -o 0 -f . -b 1
+
+-----Check if there are filled jobs
+
+mkShapesRDF -o 1 -f .
+
+-----Resubmit jobs
+
+mkShapesRDF -o 1 -f . -r 1
+
+-----Merge all root files.
+
+mkShapesRDF -o 2 -f .
